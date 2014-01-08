@@ -11,3 +11,4 @@ This can be installed via [Composer](http://getcomposer.org/) and our [packagist
 A basic example app to help kickstart you which - will also automatically install this package - is over in a public [github](https://github.com/mailchimp/mcapi2-php-examples) repo.
 
 
+###Cloned from https://bitbucket.org/mailchimp/mailchimp-api-php
